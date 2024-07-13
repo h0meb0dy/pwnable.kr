@@ -8,3 +8,4 @@
 - [flag](./flag)
 - [passcode](./passcode)
 - [random](./random)
+- [input](./input)
