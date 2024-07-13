@@ -7,3 +7,4 @@
 - [bof](./bof)
 - [flag](./flag)
 - [passcode](./passcode)
+- [random](./random)
