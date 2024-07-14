@@ -10,3 +10,4 @@
 - [random](./random)
 - [input](./input)
 - [leg](./leg)
+- [mistake](./mistake)
