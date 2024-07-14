@@ -16,3 +16,4 @@
 - [blackjack](./blackjack)
 - [lotto](./lotto)
 - [cmd1](./cmd1)
+- [cmd2](./cmd2)
