@@ -15,3 +15,4 @@
 - [coin1](./coin1)
 - [blackjack](./blackjack)
 - [lotto](./lotto)
+- [cmd1](./cmd1)
