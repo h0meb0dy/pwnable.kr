@@ -14,3 +14,4 @@
 - [shellshock](./shellshock)
 - [coin1](./coin1)
 - [blackjack](./blackjack)
+- [lotto](./lotto)
