@@ -13,3 +13,4 @@
 - [mistake](./mistake)
 - [shellshock](./shellshock)
 - [coin1](./coin1)
+- [blackjack](./blackjack)
