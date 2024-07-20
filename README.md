@@ -25,3 +25,7 @@
 - [unlink](./unlink)
 - [blukat](./blukat)
 - [horcruxes](./horcruxes)
+
+## Rookiss
+
+- [brain fuck](./brain%20fuck/)
