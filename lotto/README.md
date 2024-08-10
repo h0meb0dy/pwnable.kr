@@ -4,6 +4,8 @@
 > do you want to play?
 >
 > ssh lotto@pwnable.kr -p2222 (pw:guest)
+>
+> [Attachment](./attachment)
 
 ## Bug
 
