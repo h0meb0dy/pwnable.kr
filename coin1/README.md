@@ -4,6 +4,8 @@
 > (if your network response time is too slow, try nc 0 9007 inside pwnable.kr server)
 >
 > Running at : nc pwnable.kr 9007
+>
+> [Attachment](./attachment)
 
 ![image](https://github.com/user-attachments/assets/413d269f-cbdc-4aed-97cd-ee1b18b5557c)
 
