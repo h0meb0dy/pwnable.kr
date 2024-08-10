@@ -8,6 +8,8 @@
 > Download : http://pwnable.kr/bin/bf_libc.so
 >
 > Running at : nc pwnable.kr 9001
+>
+> [Attachment](./attachment)
 
 ## Bug
 
