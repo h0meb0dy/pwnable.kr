@@ -7,6 +7,8 @@
 > hint : not a race condition. do not bruteforce.
 >
 > ssh otp@pwnable.kr -p2222 (pw:guest)
+>
+> [Attachment](./attachment)
 
 ## Analysis
 
