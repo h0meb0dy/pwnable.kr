@@ -4,6 +4,8 @@
 > hint: if this challenge is hard, you are a skilled player.
 >
 > ssh blukat@pwnable.kr -p2222 (pw: guest)
+>
+> [Attachment](./attachment)
 
 ![image](https://github.com/user-attachments/assets/2183017a-2cfb-4750-a874-6af572a62d00)
 
