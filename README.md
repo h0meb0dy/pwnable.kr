@@ -1,6 +1,4 @@
-# pwnable.kr
-
-[pwnable.kr](https://pwnable.kr/) writeups
+# [pwnable.kr](https://pwnable.kr/)
 
 ## Toddler's Bottle
 
